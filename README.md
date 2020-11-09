@@ -1,2 +1,3 @@
-# sample-project-data-science
+# Sample Project for Data Science
+
 Just a sample project
